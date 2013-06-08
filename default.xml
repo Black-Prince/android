@@ -41,6 +41,9 @@
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
+  <project path="device/samsung/i9100" name="CyanogenMod/android_device_samsung_i9100" />
+  <project path="device/samsung/i9100g" name="CyanogenMod/android_device_samsung_i9100g" />
+  <project path="device/samsung/omap4-common" name="CyanogenMod/android_device_samsung_omap4-common" />
   <project path="device/samsung/galaxys2-common" name="BeerGang/android_device_samsung_galaxys2-common" />
   <project path="device/samsung/i9300" name="BeerGang/android_device_samsung_i9300" />
   <project path="device/samsung/smdk4412-common" name="BeerGang/android_device_samsung_smdk4412-common" />
@@ -280,6 +283,7 @@
   <project path="kernel/samsung/smdk4210" name="CyanogenMod/android_kernel_samsung_smdk4210" />
   <project path="kernel/samsung/smdk4412" name="CyanogenMod/android_kernel_samsung_smdk4412" />
   <project path="kernel/samsung/tuna" name="CyanogenMod/android_kernel_samsung_tuna" />
+  <project path="kernel/samsung/t1" name="CyanogenMod/android_kernel_samsung_t1" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
