@@ -270,8 +270,6 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
-  <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" />
-  <project path="kernel/lge/mako" name="benjamingoodwin/lge-kernel-mako" revision="cm-10.1-staging" />
   <project path="kernel/samsung/smdk4412" name="CyanogenMod/android_kernel_samsung_smdk4412" />
   <project path="kernel/samsung/t1" name="CyanogenMod/android_kernel_samsung_t1" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
